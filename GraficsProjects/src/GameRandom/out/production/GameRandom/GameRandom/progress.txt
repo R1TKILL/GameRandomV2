@@ -1,0 +1,2 @@
+Numero aleatorio: 84
+Numero de tentativas: 15
